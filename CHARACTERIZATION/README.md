@@ -25,6 +25,21 @@ We offer an exhaustive evaluation that covers all the possible combinations of:
 - Four different libraries (SEAL, PALISADE, HElib, TFHE)
 - HE key size of 128 and 256
 
+### PLATFORMS
+
+The tests have been conducted in such a way that we characterize the performance on eithers systems that can be equivalent to server nodes, or hardware that can form client/edge nodes.
+
+This is the description of the server-like nodes tested:
+- c00: equipped with 2 Intel Xeon 4210R processors, 128GB RAM memory.   
+- c01: equipped with 2 Intel Xeon E5-2610 (8 cores each) processors, 32GB RAM memory.   
+- c02: equipped with 2 AMD EPYC 7282 (16 cores each) processors, 256GB RAM memory.   
+- c03: equipped with 2 Intel Xeon 6418H (24 cores each) processors, 2TB RAM memory.
+  
+This is the description of the client/edge-like nodes tested:
+- NVIDIA Jetson AGX Xavier: NVIDIA Carmel Platform (8 cores) at 2.26 GHz, 32GB of DDR4 RAM. 
+- NVIDIA Jetson AGX Orin: ARM A78AE (12 cores) at 2.20 GHz, 64GB of DDR5 RAM. 
+- NVIDIA Jetson Nano: NVIDIA Cortex A57 (4 cores) at 1.48 GHz, 4GB of LPDDR4 RAM. 
+
 ### Contact information
 
 For more information regarding this characterization, please contact:
