@@ -1,2 +1,0 @@
-ini;lib;tam_matr1;tam_matr2;poly_modulus_degree;encriptacion;precision;t_matr1_square_total;m_matr1_square_total;t_matr1_matr2_multiply_total;m_matr1_matr2_multiply_total;t_matr1_matr2_matrix_multiply_total;m_matr1_matr2_matrix_multiply_total;fin
-1722949841.5082674;Plain computation;16x16;16x16;8192;128;40;7.867813110351562e-06;131072;9.5367431640625e-07;0;4.363059997558594e-05;2232320;1722949841.508421
