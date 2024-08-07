@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/rociocarratalasaez/CIBER-CAFE/blob/main/LOGOS/UJI_logo.png" width="100">
+</p>
+
+<p align="center">
+  <img src="https://github.com/rociocarratalasaez/CIBER-CAFE/blob/main/LOGOS/CIBER-CAFE_logo.png" width="100" height="100">
+</p>
+
 # CIBER-CAFE: HEMM Analysis
 
 We provide tools to evaluate the Homomorphic Encryption Matrix-Matrix Product (HEMM).
@@ -141,3 +149,19 @@ python3 -m pip install git+https://github.com/cython/cython@master
 ## Test the HEMM
 
 Check the README in the Test folder
+
+## Contact information
+
+For more information regarding this characterization, please contact:
+
+- Manuel F. Dolz Zaragozá (dolzm@uji.es)
+
+- Sandra Catalán Pallarés (catalans@uji.es)
+
+- Rocío Carratalá-Sáez (rcarrata@uji.es)
+
+## Acknowledgements
+
+<p align="center">
+  <img src="https://github.com/rociocarratalasaez/CIBER-CAFE/blob/main/LOGOS/Banner_logos_funding.jpg" width="500">
+</p>
