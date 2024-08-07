@@ -138,6 +138,6 @@ python3 -m pip install cython==3.0.0a10
 python3 -m pip install git+https://github.com/cython/cython@master
 ```
 
-## Test the HEMM
+## Test the HEMM
 
 Check the README in the Test folder
